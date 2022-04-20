@@ -1,4 +1,4 @@
 _site/
 .jekyll-cache
 index.html-old
-assets/posts
+# assets/posts
