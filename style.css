@@ -40,7 +40,7 @@ h1, h3, h4 {
 }
 
 h3 {
-    font-size: 1.3rem;
+    font-size: 1.1rem;
 }
 
 h2 {
@@ -65,15 +65,14 @@ a:hover {
 /* --- Hero Section --- */
 #hero {
     background-color: #ffffff;
-    padding: 1rem 0; /* Reduced padding for less vertical space */
+    padding: 0.5rem 0; /* Further reduced padding for less vertical space */
     text-align: left;
 }
 
 #hero h2, #hero h3 {
     margin-bottom: 1.2rem; /* Reduced margin below headings */
-    line-height: 0.8; /* Adjusted line height */
+    line-height: 0.6; /* Adjusted line height */
 }
-
 
 .hero-content {
     display: flex;
@@ -89,7 +88,7 @@ a:hover {
 }
 
 .hero-image img {
-    max-width: 200px;
+    max-width: 160px; /* Slightly reduced size */
     border-radius: 0;
     border: 5px solid var(--background-color);
 }
@@ -100,7 +99,7 @@ a:hover {
     display: flex;
     flex-direction: column;
     justify-content: space-between; /* Push content to top and bottom */
-    height: 100%; /* Ensure it takes full height of hero-content */
+    height: 80%; /* Ensure it takes full height of hero-content */
     min-height: 200px; /* Ensure hero-text has a minimum height */
     position: relative; /* For absolute positioning of contact-info if needed */
 }
@@ -113,7 +112,7 @@ a:hover {
 
 .contact-info li {
     margin-bottom: 0.5rem;
-    font-size: 1.1rem;
+    font-size: 0.9rem;
     color: var(--text-color);
     padding-left: 0;
 }
@@ -133,7 +132,7 @@ a:hover {
 
 .content-section p,
 .content-section li {
-    font-size: 1.1rem; /* Increased font size for content */
+    font-size: 0.9rem; /* Increased font size for content */
 }
 
 .intro-section {
@@ -145,7 +144,7 @@ a:hover {
 
 .intro-section p,
 .intro-section li {
-    font-size: 1.3rem; /* Increased font size for intro */
+    font-size: 1.1rem; /* Increased font size for intro */
 }
 
 .intro-list {
