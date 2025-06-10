@@ -120,19 +120,19 @@ a:hover {
 .content-section {
     padding: 1rem 0;
     border-top: 1px solid #060505; /* Deepened color */
-    width: 90%; /* Shortened length */
+    width: 70%; /* Shortened length */
     margin: 0 auto; /* Center the line */
 }
 
 .content-section p,
 .content-section li {
-    font-size: 1.3rem; /* Increased font size for content */
+    font-size: 1.1rem; /* Increased font size for content */
 }
 
 .intro-section {
     padding: 1rem 0;
     border-top: 1px solid #060505; /* Deepened color */
-    width: 90%; /* Shortened length */
+    width: 70%; /* Shortened length */
     margin: 0 auto; /* Center the line */
 }
 
