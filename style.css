@@ -120,7 +120,7 @@ a:hover {
 .content-section {
     padding: 1rem 0;
     border-top: 0.5rem solid #b1afaf; /* Deepened color */
-    /*width: 70%; /* Shortened length */
+    width: 70%; /* Shortened length */
     margin: 0 auto; /* Center the line */
 }
 
@@ -132,7 +132,7 @@ a:hover {
 .intro-section {
     padding: 1rem 0;
     border-top: 0.5rem solid #b1afaf; /* Deepened color */
-    /*width: 70%; /* Shortened length */
+    width: 70%; /* Shortened length */
     margin: 0 auto; /* Center the line */
 }
 
