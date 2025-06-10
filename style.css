@@ -220,24 +220,24 @@ a:hover {
 
 
 /* --- Responsive Design for Mobile --- */
-/*@media (max-width: 768px) {
-/*    .hero-content {
-/*        flex-direction: column; /* Stack vertically on mobile */
-/*        text-align: center;
+@media (max-width: 668px) {
+    .hero-content {
+        /*flex-direction: column; /* Stack vertically on mobile */
+        text-align: center;
     }
 
     .hero-image {
         order: 0; /* Reset order for mobile */
-/*    }
+    }
 
     .hero-text {
         margin-top: 2rem;
         height: auto; /* Reset height for mobile */
-/*        min-height: unset; /* Reset min-height for mobile */
-/*    }
+        min-height: unset; /* Reset min-height for mobile */
+    }
 
     .contact-info {
         text-align: center; /* Center contact info on mobile */
- /*       margin-top: 1rem; /* Adjust margin for mobile */
-/*    }
-/*}*/
+        margin-top: 1rem; /* Adjust margin for mobile */
+    }
+}
