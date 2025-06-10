@@ -108,7 +108,7 @@ a:hover {
 .contact-info {
     list-style: none;
     padding: 0;
-    margin-top: 1rem;
+    margin-top: 0rem;
 }
 
 .contact-info li {
@@ -146,6 +146,11 @@ a:hover {
 .intro-section p,
 .intro-section li {
     font-size: 1.3rem; /* Increased font size for intro */
+}
+
+.intro-list {
+    list-style-type: none; /* Remove default list style */
+    padding-left: 20px;
 }
 
 /* --- Publications List --- */
