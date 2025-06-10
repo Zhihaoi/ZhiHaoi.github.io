@@ -139,9 +139,10 @@ a:hover {
 }
 
 .publication-title {
-    color: var(--secondary-color); /* Apply the blue color */
+    color: #010508;
     display: block; /* Make it a block element for new line */
     margin-bottom: 0.2rem; /* Space after title */
+    font-weight: bold; /* Make title bold */
 }
 
 .publication-authors,
