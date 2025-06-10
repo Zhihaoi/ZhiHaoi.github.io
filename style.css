@@ -112,7 +112,7 @@ a:hover {
 
 .contact-info li {
     margin-bottom: 0.5rem;
-    font-size: 0.9rem;
+    font-size: 1.1rem;
     color: var(--text-color);
     padding-left: 0;
 }
@@ -132,7 +132,7 @@ a:hover {
 
 .content-section p,
 .content-section li {
-    font-size: 0.9rem; /* Increased font size for content */
+    font-size: 1.1rem; /* Increased font size for content */
 }
 
 .intro-section {
@@ -186,6 +186,7 @@ a:hover {
 .awards-list li {
     margin-bottom: 0.5rem;
     padding-left: 0;
+    font-size: 1.1rem;
     /*position: relative;*/
 }
 
