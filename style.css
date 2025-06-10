@@ -63,7 +63,7 @@ a:hover {
 }
 
 #hero h2, #hero h3 {
-    margin-bottom: 0.8rem; /* Reduced margin below headings */
+    margin-bottom: 1.2rem; /* Reduced margin below headings */
     line-height: 0.8; /* Adjusted line height */
 }
 
@@ -140,15 +140,16 @@ a:hover {
 }
 
 .publication-title {
-    color: #010508;
+    color: var(--secondary-color);
     display: block; /* Make it a block element for new line */
     margin-bottom: 0.2rem; /* Space after title */
     font-weight: bold; /* Make title bold */
+    font-family: var(--body-font); /* Ensure Times New Roman */
 }
 
 .publication-authors,
 .publication-conference {
-    color: #010508; /* Lighter gray for authors and conference */
+    color: var(--text-color);
     display: block; /* Make them block elements for new lines */
     margin-bottom: 0.1rem; /* Small space between lines */
 }
@@ -175,7 +176,11 @@ a:hover {
 }*/
 
 .award-title {
-    color: #010508;
+    color: var(--secondary-color);
+}
+.award-title {
+    color: var(--secondary-color);
+    font-family: var(--body-font); /* Ensure Times New Roman */
 }
 
 
