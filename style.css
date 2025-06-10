@@ -124,10 +124,18 @@ a:hover {
 
 .content-section p,
 .content-section li {
-    font-size: 1.1rem; /* Increased font size for content */
+    font-size: 1.3rem; /* Increased font size for content */
 }
 
+.intro-section {
+    padding: 1rem 0;
+    border-top: 1px solid #e0e0e0;
+}
 
+.intro-section p,
+.intro-section li {
+    font-size: 1.3rem; /* Increased font size for intro */
+}
 
 /* --- Publications List --- */
 .publication-list {
