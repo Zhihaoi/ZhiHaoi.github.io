@@ -83,11 +83,12 @@ a:hover {
 
 .hero-image img {
     max-width: 200px;
-    border-radius: 50%;
+    border-radius: 0;
     border: 5px solid var(--background-color);
 }
 
 .hero-text {
+    padding-left: 40px;
     flex: 1; /* Allow text to take remaining space */
     /* display: flex; */
     flex-direction: column;
