@@ -105,19 +105,19 @@ a:hover {
 
 .contact-info li {
     margin-bottom: 0.5rem;
-    font-size: 0.9rem;
+    font-size: 1.1rem;
     color: var(--text-color);
     padding-left: 0;
 }
 
 .contact-info i {
-    margin-right: 0.5rem;
+    margin-right: 0rem;
     color: var(--secondary-color);
 }
 
 /* --- Content Sections --- */
 .content-section {
-    padding: 4rem 0;
+    padding: 1rem 0;
     border-top: 1px solid #e0e0e0;
 }
 
