@@ -2,7 +2,7 @@
 :root {
     --primary-color: #2c3e50; /* A dark blue-gray */
     --secondary-color: #3498db; /* A bright blue */
-    --background-color: #f8f9fa; /* A very light gray */
+    --background-color: #ffffff; /* White */
     --text-color: #34495e; /* A softer dark gray for text */
     --heading-font: 'Lora', serif;
     --body-font: 'Times New Roman', serif;
@@ -210,6 +210,11 @@ header nav a:hover {
 .content-section {
     padding: 4rem 0;
     border-top: 1px solid #e0e0e0;
+}
+
+.content-section p,
+.content-section li {
+    font-size: 1.1rem; /* Increased font size for content */
 }
 
 /* --- Education & Experience Timeline --- */
