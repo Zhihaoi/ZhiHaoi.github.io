@@ -95,9 +95,9 @@ a:hover {
 }
 
 .hero-text {
-    padding-left: 40px;
+    padding-left: 0px;
     flex: 1; /* Allow text to take remaining space */
-    /* display: flex; */
+    display: flex;
     flex-direction: column;
     justify-content: space-between; /* Push content to top and bottom */
     height: 100%; /* Ensure it takes full height of hero-content */
