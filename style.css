@@ -111,16 +111,47 @@ header nav a:hover {
 .hero-content {
     display: flex;
     align-items: center;
+    justify-content: space-between; /* Distribute space between items */
     gap: 2rem;
 }
 
-.hero-text {
-    flex: 2;
+.hero-image {
+    flex: 0 0 auto; /* Don't grow or shrink, take content width */
+    text-align: center;
+    order: -1; /* Place image first */
 }
 
-.hero-image {
-    flex: 1;
-    text-align: center;
+.hero-image img {
+    max-width: 200px;
+    border-radius: 50%;
+    border: 5px solid var(--background-color);
+}
+
+.hero-text {
+    flex: 1; /* Allow text to take remaining space */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between; /* Push content to top and bottom */
+    height: 100%; /* Ensure it takes full height of hero-content */
+    min-height: 200px; /* Ensure hero-text has a minimum height */
+    position: relative; /* For absolute positioning of contact-info if needed */
+}
+
+.contact-info {
+    margin-top: auto; /* Pushes this div to the bottom */
+    text-align: right; /* Align contact info to the right */
+    padding-top: 1rem; /* Add some space above contact info */
+}
+
+.contact-info p {
+    margin-bottom: 0.5rem;
+    font-size: 0.9rem;
+    color: var(--text-color);
+}
+
+.contact-info i {
+    margin-right: 0.5rem;
+    color: var(--secondary-color);
 }
 
 .hero-image img {
@@ -307,12 +338,23 @@ footer .container {
     }
 
     .hero-content {
-        flex-direction: column-reverse;
+        flex-direction: column; /* Stack vertically on mobile */
         text-align: center;
+    }
+
+    .hero-image {
+        order: 0; /* Reset order for mobile */
     }
 
     .hero-text {
         margin-top: 2rem;
+        height: auto; /* Reset height for mobile */
+        min-height: unset; /* Reset min-height for mobile */
+    }
+
+    .contact-info {
+        text-align: center; /* Center contact info on mobile */
+        margin-top: 1rem; /* Adjust margin for mobile */
     }
 
     .timeline-item {
