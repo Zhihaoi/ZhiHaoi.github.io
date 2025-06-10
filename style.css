@@ -119,7 +119,9 @@ a:hover {
 /* --- Content Sections --- */
 .content-section {
     padding: 1rem 0;
-    border-top: 1px solid #e0e0e0;
+    border-top: 1px solid #060505; /* Deepened color */
+    width: 90%; /* Shortened length */
+    margin: 0 auto; /* Center the line */
 }
 
 .content-section p,
@@ -129,7 +131,9 @@ a:hover {
 
 .intro-section {
     padding: 1rem 0;
-    border-top: 1px solid #e0e0e0;
+    border-top: 1px solid #060505; /* Deepened color */
+    width: 90%; /* Shortened length */
+    margin: 0 auto; /* Center the line */
 }
 
 .intro-section p,
