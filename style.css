@@ -16,6 +16,7 @@
 }
 
 html {
+    font-size: 100%; /* Base font size for rem units */
     scroll-behavior: smooth;
 }
 
@@ -29,7 +30,7 @@ body {
 .container {
     max-width: 960px;
     margin: 0 auto;
-    padding: 0 20px;
+    padding: 0 1.25rem;
 }
 
 h1, h3, h4 {
@@ -61,6 +62,10 @@ a:hover {
     text-decoration: underline;
 }
 
+a.link-color {
+    color: #338DFF;
+}
+
 
 /* --- Hero Section --- */
 #hero {
@@ -76,7 +81,7 @@ a:hover {
 }
 
 #hero h2 {
-    padding-left: 0px;
+    padding-left: 0rem;
     margin-bottom: 1.0rem; /* Reduced margin below headings */
     line-height: 0.6; /* Adjusted line height */
     background-color: #ffffff;
@@ -98,19 +103,19 @@ a:hover {
 }
 
 .hero-image img {
-    max-width: 160px; /* Slightly reduced size */
+    max-width: 10rem; /* Slightly reduced size */
     border-radius: 0;
-    border: 5px solid var(--background-color);
+    border: 0.3125rem solid var(--background-color);
 }
 
 .hero-text {
-    padding-left: 20px;
+    padding-left: 1.25rem;
     flex: 1; /* Allow text to take remaining space */
     display: flex;
     flex-direction: column;
     justify-content: space-between; /* Push content to top and bottom */
     height: 80%; /* Ensure it takes full height of hero-content */
-    min-height: 200px; /* Ensure hero-text has a minimum height */
+    min-height: 12.5rem; /* Ensure hero-text has a minimum height */
     position: relative; /* For absolute positioning of contact-info if needed */
 }
 
@@ -159,13 +164,13 @@ a:hover {
 
 .intro-list {
     list-style-type: none; /* Remove default list style */
-    padding-left: 20px;
+    padding-left: 1.25rem;
 }
 
 /* --- Publications List --- */
 .publication-list {
     list-style-type: disc; /* Remove default list style */
-    padding-left: 20px;
+    padding-left: 1.25rem;
 }
 
 .publication-list li {
@@ -191,7 +196,7 @@ a:hover {
 /* --- Awards List --- */
 .awards-list {
     list-style: disc;
-    padding-left: 20px;
+    padding-left: 1.25rem;
 }
 .awards-list li {
     margin-bottom: 0.5rem;
@@ -220,7 +225,7 @@ a:hover {
 
 
 /* --- Responsive Design for Mobile --- */
-@media (max-width: 668px) {
+@media (max-width: 41.75rem) {
     .hero-content {
         /*flex-direction: column; /* Stack vertically on mobile */
         text-align: center;
