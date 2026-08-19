@@ -1,0 +1,109 @@
+1:"$Sreact.fragment"
+2:I[51205,["/_next/static/chunks/39t54jck290za.js","/_next/static/chunks/0juqj_uzoa-b5.js","/_next/static/chunks/02-9m0j9aaxrj.js","/_next/static/chunks/3pmy8d_wd4_-_.js"],"default"]
+3:Tc1d,## Education
+
+**Xiamen University**, Ph.D. in Computer Science and Technology, *2021 - 2025*
+
+**Xiamen University**, M.S. in Computer Science and Technology, *2018 - 2021*
+
+**Chongqing University of Technology**, B.S. in Communication Engineering, *2014 - 2018*
+
+## Experience
+
+**Postdoctoral Researcher at Tsinghua University**,
+*2026 - Present*
+
+**Research Intern at Alibaba Cloud Intelligence**,
+*2023 - 2025*
+
+## Publications
+
+### Conference Papers
+
+[C7] **SqueezeDisk: Bridging High-Ratio Compression and Low-Amplification Decompression in Block Storage.**\
+**Zhihao Zhang**, Qiao Li, Shiyu Wang, Huiba Li, Jiwu Shu, Kai Chen, Yiming Zhang.\
+ACM EMSOFT'26/IEEE TCAD. 2026
+
+[C6] **PlanB: Efficient Software IPv6 Lookup with Linearized B+Tree.**\
+**Zhihao Zhang**, Lanzhen Liu, Chen Chen, Huiba Li, Jiwu Shu, Windsor Hsu, Yiming Zhang.\
+USENIX NSDI'26.
+
+[C5] **ParaSync: Exploiting Fine-Grained Parallelism for Efficient File Synchronization.**\
+**Zhihao Zhang**, Lu Tang, Huiba Li, Yue Yu, Jiwu Shu, Yiming Zhang.\
+USENIX FAST'26.
+
+[C4] **SkySync: Accelerating File Synchronization with Collaborative Delta Generation.**\
+**Zhihao Zhang**, Huiba Li, Lu Tang, Jiwu Shu, Yiming Zhang.\
+USENIX FAST'26.
+
+[C3] **AtomicDisk: A Secure Virtual Disk for TEEs against Eviction Attacks.**\
+Hongliang Tian, Xinyi Yu, Shaowei Song, Qingsong Chen, **Zhihao Zhang**, Shiyu Wang, Weijie Liu, Erci Xu, Shoumeng Yan, Yiming Zhang.\
+USENIX FAST'25. 2025
+
+[C2] **OnionDisk: A Log-Structured Write-Optimal Virtual Block Device.**\
+Shiyu Wang, **Zhihao Zhang** and Yiming Zhang.\
+ACM APSys'24. 2024
+
+[C1] **FlexMem: Proactive Memory Deduplication for Qcow2-Based VMs with Virtual Persistent Memory.**\
+Weinan Liu, **Zhihao Zhang**, Xiangrong Liu, and Yiming Zhang.\
+ACM APNet'24. 2024
+
+### Journal Papers
+
+[J5] **CrossFS: Improving Cross-Domain File System Performance with CRDT-Based Metadata Synchronization.**\
+Qiwen Ke, Yina Lv, **Zhihao Zhang**, Zhirong Shen, Yue Yu, Hailiang Chen, Zhenlong Song, Xinbiao Gan, Jiaxin Li, Dongsheng Li, Xin Yao, Meiling Wang, Yiming Zhang.\
+ACM Transactions on Storage. 2026.
+
+[J4] **Research on Automatic Parameter Tuning of DPU-based Key-Value Storage Systems.**\
+Maoxin Ye, Jiahong Chen, **Zhihao Zhang**, Suzhen Wu, Jie Zhang, Hong Jiang, Bo Mao.\
+Acta Electronica Sinica (电子学报), 2026.
+
+[J3] **Tiered Cache-Sharing Service for Virtual Machine Images Based on Memory Pool.**\
+**Zhihao Zhang**, Weinan Liu, Zhenlong Song, Xinbiao Gan, Yue Yu, Yiming Zhang.\
+IEEE Micro. 2025.
+
+[J2] **Efficient Block Storage in the Cloud.**\
+Yiming Zhang, **Zhihao Zhang**, Yan Chen, Huiba Li, Haonan Wang, Ping Zhong, Shengyun Liu and Dongsheng Li.\
+IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD). 2024
+
+[J1] **Block-Level Image Service for the Cloud.**\
+Huiba Li, **Zhihao Zhang (Co-primary)**, Yifan Yuan, Rui Du, Kai Ma, Lanzheng Liu, Yiming Zhang, and Windsor Hsu.\
+ACM Transactions on Storage. 2024.
+
+## Contact
+
+- **Location:** Beijing, China
+- **Email:** zhihaoz#tsinghua.edu.cn
+- **GitHub:** [github.com/ZhiHaoi](https://github.com/ZhiHaoi)7:X
+c:X
+c:C
+0:{"buildId":"FgNYXKwKbhEG993R2iPRk","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12","children":[false,["$","$L2",null,{"config":{"type":"text","title":"CV","source":"cv.md"},"content":"$3"}],false]}],["$L4"],"$L5"]}],"isPartial":"$@6","staleTime":"$7","varyParams":null},{"rsc":"$L8","isPartial":"$@9","staleTime":"$7","varyParams":null},{"rsc":"$La","isPartial":"$@b","staleTime":"$7","varyParams":"$c"},{"rsc":"$Ld","isPartial":"$@e","staleTime":"$7","varyParams":null}],"isUpgradeableISRFallback":false,"a":"$@f","rootVaryParams":null,"needsRuntimeRequest":"$@10"}
+11:I[97367,["/_next/static/chunks/39t54jck290za.js","/_next/static/chunks/0juqj_uzoa-b5.js","/_next/static/chunks/02-9m0j9aaxrj.js"],"OutletBoundary"]
+12:"$Sreact.suspense"
+14:I[97367,["/_next/static/chunks/39t54jck290za.js","/_next/static/chunks/0juqj_uzoa-b5.js","/_next/static/chunks/02-9m0j9aaxrj.js"],"ViewportBoundary"]
+15:I[97367,["/_next/static/chunks/39t54jck290za.js","/_next/static/chunks/0juqj_uzoa-b5.js","/_next/static/chunks/02-9m0j9aaxrj.js"],"MetadataBoundary"]
+16:I[27201,["/_next/static/chunks/39t54jck290za.js","/_next/static/chunks/0juqj_uzoa-b5.js","/_next/static/chunks/02-9m0j9aaxrj.js"],"IconMark"]
+17:I[39756,["/_next/static/chunks/39t54jck290za.js","/_next/static/chunks/0juqj_uzoa-b5.js","/_next/static/chunks/02-9m0j9aaxrj.js"],"default"]
+18:I[37457,["/_next/static/chunks/39t54jck290za.js","/_next/static/chunks/0juqj_uzoa-b5.js","/_next/static/chunks/02-9m0j9aaxrj.js"],"default"]
+1a:I[94519,["/_next/static/chunks/39t54jck290za.js","/_next/static/chunks/0juqj_uzoa-b5.js","/_next/static/chunks/02-9m0j9aaxrj.js"],"ThemeProvider"]
+1b:I[28127,["/_next/static/chunks/39t54jck290za.js","/_next/static/chunks/0juqj_uzoa-b5.js","/_next/static/chunks/02-9m0j9aaxrj.js"],"default"]
+:HL["/_next/static/chunks/44-4-226j0y9v.css","style"]
+:HL["https://google-fonts.jialeliu.com/css2?family=Inter:wght@300;400;500;600;700&family=Crimson+Text:ital,wght@0,400;0,600;1,400&display=swap","style"]
+4:["$","script","script-0",{"src":"/_next/static/chunks/3pmy8d_wd4_-_.js","async":true}]
+5:["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]
+8:["$","$1","h",{"children":[null,["$","$L14",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L15",null,{"children":["$","$12",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"CV | Zhihao Zhang"}],["$","meta","1",{"name":"author","content":"Zhihao Zhang"}],["$","meta","2",{"name":"keywords","content":"Zhihao Zhang,PhD,Research,Tsinghua University"}],["$","meta","3",{"name":"creator","content":"Zhihao Zhang"}],["$","meta","4",{"name":"publisher","content":"Zhihao Zhang"}],["$","meta","5",{"property":"og:title","content":"Zhihao Zhang"}],["$","meta","6",{"property":"og:description","content":"Zhihao Zhang's Academic Homepage"}],["$","meta","7",{"property":"og:site_name","content":"Zhihao Zhang's Academic Website"}],["$","meta","8",{"property":"og:locale","content":"en_US"}],["$","meta","9",{"property":"og:type","content":"website"}],["$","meta","10",{"name":"twitter:card","content":"summary"}],["$","meta","11",{"name":"twitter:title","content":"Zhihao Zhang"}],["$","meta","12",{"name":"twitter:description","content":"Zhihao Zhang's Academic Homepage"}],["$","link","13",{"rel":"icon","href":"/fa.svg"}],["$","$L16","14",{}]]}]}]}],null]}]
+a:["$","$1","c",{"children":[null,["$","$L17",null,{"parallelRouterKey":"children","template":["$","$L18",null,{}]}]]}]
+19:["$","link",null,{"rel":"stylesheet","href":"https://google-fonts.jialeliu.com/css2?family=Inter:wght@300;400;500;600;700&family=Crimson+Text:ital,wght@0,400;0,600;1,400&display=swap"}]
+d:["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/44-4-226j0y9v.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/39t54jck290za.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0juqj_uzoa-b5.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/02-9m0j9aaxrj.js","async":true}]],["$","html",null,{"lang":"en","className":"scroll-smooth","data-scroll-behavior":"smooth","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"icon","href":"/fa.svg","type":"image/svg+xml"}],["$","link",null,{"rel":"dns-prefetch","href":"https://google-fonts.jialeliu.com"}],["$","link",null,{"rel":"preconnect","href":"https://google-fonts.jialeliu.com","crossOrigin":""}],["$","link",null,{"rel":"preload","as":"style","href":"https://google-fonts.jialeliu.com/css2?family=Inter:wght@300;400;500;600;700&family=Crimson+Text:ital,wght@0,400;0,600;1,400&display=swap"}],["$","link",null,{"rel":"stylesheet","id":"gfonts-css","href":"https://google-fonts.jialeliu.com/css2?family=Inter:wght@300;400;500;600;700&family=Crimson+Text:ital,wght@0,400;0,600;1,400&display=swap","media":"print"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n              (function(){\n                var l = document.getElementById('gfonts-css');\n                if (!l) return;\n                if (l.media !== 'all') {\n                  l.addEventListener('load', function(){ try { l.media = 'all'; } catch(e){} });\n                }\n              })();\n            "}}],["$","noscript",null,{"children":"$19"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n              try {\n                const theme = localStorage.getItem('theme-storage');\n                const parsed = theme ? JSON.parse(theme) : null;\n                const setting = parsed?.state?.theme || 'system';\n                const prefersDark = typeof window !== 'undefined' && window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;\n                const effective = setting === 'dark' ? 'dark' : (setting === 'light' ? 'light' : (prefersDark ? 'dark' : 'light'));\n                var root = document.documentElement;\n                root.classList.add(effective);\n                root.setAttribute('data-theme', effective);\n              } catch (e) {\n                var root = document.documentElement;\n                root.classList.add('light');\n                root.setAttribute('data-theme', 'light');\n              }\n            "}}]]}],["$","body",null,{"className":"font-sans antialiased","children":["$","$L1a",null,{"children":[["$","$L1b",null,{"items":[{"title":"Home","type":"page","target":"about","href":"/"},{"title":"Publications","type":"page","target":"publications","href":"/publications"},{"title":"Awards","type":"page","target":"awards","href":"/awards"},{"title":"Services","type":"page","target":"services","href":"/services"},{"title":"CV","type":"page","target":"cv","href":"/cv"}],"siteTitle":"Zhihao Zhang","enableOnePageMode":false}],["$","main",null,{"className":"min-h-screen pt-16 lg:pt-20","children":["$","$L17",null,{"parallelRouterKey":"children","template":["$","$L18",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],"$L1c"]}]}]],[]]}]}],"$L1d"]}]}]]}]]}]
+1e:I[58234,["/_next/static/chunks/39t54jck290za.js","/_next/static/chunks/0juqj_uzoa-b5.js","/_next/static/chunks/02-9m0j9aaxrj.js"],"default"]
+13:null
+1c:["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]
+1d:["$","$L1e",null,{"lastUpdated":"August 19, 2026"}]
+10:true
+7:300
+7:C
+f:0
+9:"$undefined"
+b:"$undefined"
+e:"$undefined"
+6:"$undefined"
